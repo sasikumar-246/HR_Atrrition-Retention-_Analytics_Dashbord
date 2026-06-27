@@ -70,7 +70,7 @@ This project presents an interactive **HR Analytics Dashboard** developed using 
 
 ## 🖼️ Dashboard Preview
 
-
+![HR_Analytics_Dashboard](hr_dashboard.png)
 
 ---
 
