@@ -1,4 +1,4 @@
-# HR_Atrrition-Retention-_Analytics_Dashbord |Using PowerBI
+# HR_Atrrition_Retention_Analytics_Dashbord |Using PowerBI
 
 ## 📌 Project Overview
 
